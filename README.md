@@ -5,7 +5,7 @@ Now I am writing small projects in Qt/C++.
 💫 I really want to finally make something brilliant. 💫  
 
 My favorite language: C++  
-But also wrote in: Lua, Pascal, HTML/CSS/JavaScript, Python  
+But also wrote in: Lua, Pascal, HTML/CSS/JavaScript, Python, Batch and Powershell
 
 ### 📌 Projects
 - [Infinite Math Test](https://github.com/teshay-btw/infinite-math-test)
