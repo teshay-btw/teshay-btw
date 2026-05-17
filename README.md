@@ -2,7 +2,7 @@
 
 Now I am writing small projects in Qt/C++.  
 💫 I dream of learning to develop games on Unreal Engine 5.💫   
-💫 And I also dream of finally doing something brilliant.💫  
+💫 And I also want to finally do something brilliant. 💫  
 
 My favorite language: C++  
 But also wrote in: Lua, Pascal, HTML/CSS/JavaScript, Python  
