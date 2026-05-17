@@ -1,8 +1,8 @@
 # Hi, I'm Teshay 👋
 
 Now I am writing small projects in Qt/C++.  
-💫 I dream of learning to develop games on Unreal Engine 5.💫   
-💫 And I also want to finally do something brilliant. 💫  
+💫 I dream of learning how to develop games on Unreal Engine 5, and also learn how to develop viruses in C++.💫   
+💫 I really want to finally make something brilliant. 💫  
 
 My favorite language: C++  
 But also wrote in: Lua, Pascal, HTML/CSS/JavaScript, Python  
