@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Teshay 👋
 
-<!--
-**teshay-btw/teshay-btw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Now I am writing small projects in Qt/C++.  
+💫 I dream of learning to develop games on Unreal Engine 5.💫   
+💫 And I also dream of finally doing something brilliant.💫  
 
-Here are some ideas to get you started:
+My favorite language: C++  
+But also wrote in: Lua, Pascal, HTML/CSS/JavaScript, Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- [Infinite Math Test](https://github.com/teshay-btw/infinite-math-test)
+- [Password Generator](https://github.com/teshay-btw/password-generator)
+- [2048 with custom rules](https://github.com/teshay-btw/2048)
+
+### 📌 Some of my old projects
+- [Mini Python Projects](https://github.com/teshay-btw/mini-python-projects)
+- [Cubic Sandbox Script](https://github.com/teshay-btw/gg-cubic-sandbox-script)
+- [Pascal Minesweeper](https://github.com/teshay-btw/pascal-minesweeper)
+  
+
