@@ -17,4 +17,5 @@ But also wrote in: Lua, Pascal, HTML/CSS/JavaScript, Python, Batch and Powershel
 - [Cubic Sandbox Script](https://github.com/teshay-btw/gg-cubic-sandbox-script)
 - [Pascal Minesweeper](https://github.com/teshay-btw/pascal-minesweeper)
   
-
+Recently I: `updated the` [Infinite Math Test](https://github.com/teshay-btw/infinite-math-test).  
+So I would be grateful if you tried it.
