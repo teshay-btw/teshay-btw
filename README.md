@@ -11,6 +11,7 @@ But also wrote in: Lua, Pascal, HTML/CSS/JavaScript, Python, Batch and Powershel
 - [Infinite Math Test](https://github.com/teshay-btw/infinite-math-test)
 - [Password Generator](https://github.com/teshay-btw/password-generator)
 - [2048 with custom rules](https://github.com/teshay-btw/2048)
+- [Number Memory Trainer](https://github.com/teshay-btw/number_memory_trainer)
 
 ### 📌 Some of my old projects
 - [Mini Python Projects](https://github.com/teshay-btw/mini-python-projects)
